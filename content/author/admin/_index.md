@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Phd Student at KAUST"
+role = "Ph.D. Stu@Computer Science"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "KAUST", url = "" } ]
+organizations = [ { name = "King Abdullah University of Science and Technology (KAUST)", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include representation learning, optimization, graph mining."
@@ -41,7 +41,7 @@ user_groups = ["Researchers", "Visitors"]
 
 [[education.courses]]
   course = "MEng in Computer Science"
-  institution = "Hangzhou Normal University"
+  institution = "Hangzhou Normal University (HZNU)"
   year = 2015
 
 [[education.courses]]
@@ -83,4 +83,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Lu Yu is a Ph.d. in King Abdullah University of Science and Technology (KAUST), under the supervision of Prof. Xiangliang Zhang leading the MINE group. Before joining KAUST, I worked as a Data Mining Engineer at Alibaba Group from 2015.06 - 2016.07. I worked on learning representation of discrete data structure (e.g. graph, seuqence, entity) that intersected with graph theory, optimization, adversarial learning.
+Lu Yu is a third-year Ph.D. student in [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa), under the supervision of Prof. Xiangliang Zhang leading the [MINE](https://mine.kaust.edu.sa) group. Before joining KAUST, he worked as a Data Mining Engineer at Alibaba Group. He mainly works on learning representation of discrete data structure (e.g. graph, seuqence, entity) that intersected with graph theory, optimization, adversarial learning.
