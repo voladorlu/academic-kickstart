@@ -34,20 +34,20 @@ interests = [
 user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
-[[education.courses]]
-  course = "PhD Student of Computer Science"
-  institution = "King Abdullah University of Science and Technology (KAUST)"
-  year = 2016 - Now
+# [[education.courses]]
+#  course = "PhD Student of Computer Science"
+#  institution = "King Abdullah University of Science and Technology (KAUST)"
+#  year = 2016 - Now
 
 [[education.courses]]
   course = "MEng in Computer Science"
   institution = "Hangzhou Normal University"
-  year = 2012 - 2015
+  year = 2015
 
 [[education.courses]]
   course = "BSc in Computer Science"
   institution = "University of Electronic Science and Technology of China (UESTC)"
-  year = 2008 - 2012
+  year = 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
